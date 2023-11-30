@@ -4,6 +4,6 @@ metadata:
   name: crossplane-bucket-ps2kj89
 spec:
   forProvider:
-    region: us-east-1
+    region: us-east-2
   providerConfigRef:
     name: default
